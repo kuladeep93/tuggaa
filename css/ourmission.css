@@ -1,0 +1,13 @@
+body{
+    text-align: justify;
+}
+.font16{
+    font-size: 16px;
+}
+.font-fmly{
+    font-family: 'Oleo Script', cursive;
+}
+.success-img{
+    width: 100%;
+    padding-top: 58px;
+}

@@ -1,0 +1,25 @@
+.font-fmly{
+    font-family: 'Oleo Script', cursive;
+}
+#about img{
+    height: 300px;
+    width: 100%;    
+}
+.about-small-container{
+    border-right: 1px solid #e9e9e9;
+    padding: 20px;
+}
+.about-small-container img{
+    width: 100%;
+    height: 100px;
+}
+.about-small-container p{
+    text-align: justify;
+}
+.about-small-container a{
+    float: right;
+}
+.brdr-btm{
+    margin: 15px 0;
+    border-bottom: 1px dotted #d2d2d2;
+}
