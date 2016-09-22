@@ -17,3 +17,6 @@ textarea{
 .font-fmly{
     font-family: 'Oleo Script', cursive;
 }
+.btn{
+    float: right;
+}
