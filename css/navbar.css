@@ -57,6 +57,7 @@ a:hover,a:focus{
     .sf-menu { display:none !important; }
 }
 .sf-menu >li {
+    font-family: 'Oleo Script', cursive;
     background:none;
     float:left;
     text-align:center;
