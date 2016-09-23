@@ -1,0 +1,10 @@
+.media-object{
+   width: 200px;
+}
+.media{
+    padding-bottom: 20px;
+    border-bottom: 1px solid #e3e3e3;
+}
+.fnt-fmly, h3{
+    font-family: 'Oleo Script', cursive;
+}

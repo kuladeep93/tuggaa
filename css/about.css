@@ -1,6 +1,9 @@
 .font-fmly{
     font-family: 'Oleo Script', cursive;
 }
+p{
+    text-align: justify;
+}
 #about img{
     height: 300px;
     width: 100%;    
