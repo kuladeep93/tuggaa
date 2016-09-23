@@ -1,8 +1,14 @@
-#about .about-title{
+#about{
+    margin-top: 50px;
+}
+#about h3{
     font-family: 'Oleo Script', cursive;
     font-size: 30px;
 }
-#about .about-title img{
+#about h4{
+    font-family: 'Oleo Script', cursive;
+}
+#about img{
     height: 120px;
     width: 120px;
     border-radius: 50%;
@@ -11,6 +17,10 @@
 #image-slider img{
     width: 100%;
 }
+
+/************************
+welcome content section
+*******************************/
 #welcome .welcome-title{
     border-right: 1px solid #e3e3e3;
     padding: 0 30px;
@@ -28,7 +38,7 @@
 #welcome .welcome-title p{
     margin-top: 20px;
     text-align: justify;
-    font-size: 11px;
+    font-size: 12px;
 }
 #welcome .recent-events{
     border-right: 1px solid #e5e5e5;
@@ -41,12 +51,22 @@
     padding-bottom: 20px;
     border-bottom: 1px dotted #000;
 }
-#welcome .advantage-item img{
-    height: 100px;
-    width: 100px;
+#welcome .advantage-item{
     float: left;
     margin-right: 20px;
 }
-#welcome .advantage-item .section-right h4,#welcome .advantage-item .section-right p{
+#welcome .advantage-item img{
+     height: 100px;
+    width: 100px;
+}
+#welcome .advantage-item .section-right{
     float: right;
+}
+.section-right p,.recent-events p{
+    font-size: 13px;
+    text-align: justify;
+}
+.fnt11{
+    padding-left: 10px;
+    font-size: 11px;
 }
