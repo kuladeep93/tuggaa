@@ -4,7 +4,9 @@
 a:hover,a:focus{
     text-decoration: none;
 }
-
+p{
+    text-align: justify;
+}
 #logo-section{
     padding: 20px 0;
 }
@@ -68,6 +70,7 @@ a:hover,a:focus{
 }
 .sf-menu >li {
     font-family: 'Oleo Script', cursive;
+    font-size: 20px;
     background:none;
     float:left;
     text-align:center;

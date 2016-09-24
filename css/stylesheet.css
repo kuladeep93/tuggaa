@@ -5,7 +5,7 @@
     font-family: 'Oleo Script', cursive;
     font-size: 30px;
 }
-#about h4{
+#about h4,h1{
     font-family: 'Oleo Script', cursive;
 }
 #about img{
@@ -67,4 +67,19 @@ welcome content section
 .fnt11{
     padding-left: 10px;
     font-size: 11px;
+}
+#sales{
+    background-color: #FFEBEE;
+}
+#alliances{
+    background-color: #E1BEE7;
+}
+#branding{
+    background-color: #E8EAF6;
+}
+#traders{
+    background-color: #B3E5FC;
+}
+#industries{
+    background-color: #E8F5E9;
 }
