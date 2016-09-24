@@ -9,9 +9,7 @@
     font-family: 'Oleo Script', cursive;
 }
 #about img{
-    height: 120px;
-    width: 120px;
-    border-radius: 50%;
+    max-width: 100%;
     margin: 20px 0;
 }
 #image-slider img{

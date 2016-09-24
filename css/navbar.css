@@ -19,11 +19,21 @@ a:hover,a:focus{
     margin: 5px;
     height: 40px;
     width: 40px;
+    margin-top: 50px;
 }
 #logo-section .social-icon span{
-    padding: 11px;
+    padding: 10px 0 0 8px;
     color: #fff;
     font-size: 20px;
+}
+.social-icon .fa-facebook:before{
+    padding-left: 6px;
+}
+.social-icon .fa-twitter:before{
+    padding-left: 4px;
+}
+.social-icon .fa-dribbble:before{
+    padding-left: 4px;
 }
 .nav__primary {
     position:relative;
