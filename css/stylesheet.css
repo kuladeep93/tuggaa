@@ -1,5 +1,5 @@
 #about{
-    margin-top: 50px;
+    background-color: #EDE7F6;
 }
 #about h3{
     font-family: 'Oleo Script', cursive;
@@ -10,10 +10,19 @@
 }
 #about img{
     max-width: 100%;
-    margin: 20px 0;
+    padding-top: 70px;
+}
+#about img #marketing-img{
+    padding-top: 20px;
 }
 #image-slider img{
     width: 100%;
+}
+.txt-ctr{
+    text-align: center;
+}
+.container-fluid{
+    padding: 0;
 }
 
 /************************
@@ -68,18 +77,18 @@ welcome content section
     padding-left: 10px;
     font-size: 11px;
 }
-#sales{
-    background-color: #FFEBEE;
+/*#sales{
+    background-color: #F3E5F5;
 }
 #alliances{
-    background-color: #E1BEE7;
+    background-color: #FFEBEE;
 }
 #branding{
-    background-color: #E8EAF6;
+    background-color: #F3E5F5;
 }
 #traders{
-    background-color: #B3E5FC;
+    background-color: #E3F2FD;
 }
 #industries{
-    background-color: #E8F5E9;
-}
+    background-color: #EDE7F6;
+}*/
